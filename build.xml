@@ -1,6 +1,6 @@
 <project name="BlackWidow" basedir=".">
 
-    <description>Build file for BlackWidow Chess</description>
+    <description>Build file for  Chess</description>
 
     <property name="build.dir" value="build" />
     <property name="lib.dir" value="lib" />
